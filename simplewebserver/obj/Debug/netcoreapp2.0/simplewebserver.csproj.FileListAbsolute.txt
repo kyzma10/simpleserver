@@ -1,0 +1,11 @@
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\bin\Debug\netcoreapp2.0\simplewebserver.deps.json
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\bin\Debug\netcoreapp2.0\simplewebserver.runtimeconfig.json
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\bin\Debug\netcoreapp2.0\simplewebserver.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\bin\Debug\netcoreapp2.0\simplewebserver.dll
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\bin\Debug\netcoreapp2.0\simplewebserver.pdb
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\obj\Debug\netcoreapp2.0\simplewebserver.csprojResolveAssemblyReference.cache
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\obj\Debug\netcoreapp2.0\simplewebserver.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\obj\Debug\netcoreapp2.0\simplewebserver.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\obj\Debug\netcoreapp2.0\simplewebserver.AssemblyInfo.cs
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\obj\Debug\netcoreapp2.0\simplewebserver.dll
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver\obj\Debug\netcoreapp2.0\simplewebserver.pdb

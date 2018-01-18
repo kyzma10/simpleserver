@@ -1,0 +1,5 @@
+C:\Users\HOME\source\repos\simplewebserver\simplewebserver
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=simplewebserver
+--content-root=C:\Users\HOME\source\repos\simplewebserver\simplewebserver
+--file=
